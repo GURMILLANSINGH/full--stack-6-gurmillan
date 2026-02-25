@@ -1,0 +1,94 @@
+/* ===== PAGE ===== */
+body{
+  font-family:Segoe UI;
+  min-height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:linear-gradient(135deg,#e0f2fe,#eef2ff,#fce7f3);
+}
+
+.app{width:100%;display:flex;justify-content:center}
+
+/* ===== CARD ===== */
+.form-container{
+  width:95%;
+  max-width:750px;
+  background:white;
+  padding:30px 45px;
+  border-radius:14px;
+  box-shadow:0 20px 45px rgba(0,0,0,0.08);
+}
+
+h2{text-align:center;margin-bottom:20px}
+
+/* ===== SECTION HIGHLIGHT ===== */
+.form-section{
+  background:#f8fafc;
+  padding:18px 20px;
+  border-radius:10px;
+  margin-bottom:18px;
+  border-left:5px solid #6366f1;
+}
+
+.section-title{
+  font-weight:700;
+  margin-bottom:10px;
+  color:#4f46e5;
+}
+
+/* ===== LAYOUT ===== */
+.two-col{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:15px;
+}
+
+.radio-group{
+  display:flex;
+  gap:20px;
+}
+
+.skills-list{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:8px;
+}
+
+/* ===== INPUT ===== */
+label{display:block;margin-top:10px;margin-bottom:4px;font-weight:600}
+
+input,textarea,select{
+  width:100%;
+  padding:9px;
+  border-radius:6px;
+  border:1px solid #cbd5e1;
+  background:#fff;
+}
+
+textarea{height:70px}
+
+/* ===== BUTTONS ===== */
+.button-group{
+  display:flex;
+  gap:15px;
+  margin-top:20px;
+}
+
+button{
+  flex:1;
+  padding:11px;
+  border:none;
+  border-radius:6px;
+  font-weight:600;
+  cursor:pointer;
+}
+
+.submit-btn{background:#6366f1;color:white}
+.cancel-btn{background:#e2e8f0}
+
+/* ===== MOBILE ===== */
+@media(max-width:600px){
+  .two-col{grid-template-columns:1fr}
+  .skills-list{grid-template-columns:repeat(2,1fr)}
+}
