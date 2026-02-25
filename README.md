@@ -110,12 +110,12 @@ The application displays:
 * Clean card UI with gradient background
 
 ###  Screenshot
-<img width="1904" height="966" alt="image" src="https://github.com/user-attachments/assets/23bbff65-d8ce-4fea-9275-4a682230e7e1" />
+<img width="489" height="446" alt="image" src="https://github.com/user-attachments/assets/3caf2418-d8f2-47cd-8d49-1f6fdabf6276" />
 
-<img width="1918" height="971" alt="Screenshot 2026-02-25 095634" src="https://github.com/user-attachments/assets/b498c739-7a15-4e93-bb9e-09a549900758" />
+<img width="523" height="538" alt="image" src="https://github.com/user-attachments/assets/55c4cf0f-7be7-494d-9956-eb5a01c5f40d" />
 
 
-<img width="651" height="402" alt="image" src="https://github.com/user-attachments/assets/99d9393d-f84d-46d4-a28e-c4ece057e42b" />
+<img width="646" height="227" alt="image" src="https://github.com/user-attachments/assets/19d1e3a1-361c-4973-b800-2496c74eec21" />
 
 
 
