@@ -110,12 +110,13 @@ The application displays:
 * Clean card UI with gradient background
 
 ###  Screenshot
-<img width="489" height="446" alt="image" src="https://github.com/user-attachments/assets/3caf2418-d8f2-47cd-8d49-1f6fdabf6276" />
-
-<img width="523" height="538" alt="image" src="https://github.com/user-attachments/assets/55c4cf0f-7be7-494d-9956-eb5a01c5f40d" />
+<img width="1904" height="966" alt="Screenshot 2026-02-25 095431" src="https://github.com/user-attachments/assets/3ea4e18b-b0dd-4810-8cba-796ba923f213" />
 
 
-<img width="646" height="227" alt="image" src="https://github.com/user-attachments/assets/19d1e3a1-361c-4973-b800-2496c74eec21" />
+<img width="1918" height="971" alt="Screenshot 2026-02-25 095634" src="https://github.com/user-attachments/assets/c8aa9f97-3b08-47bb-8e31-294ac6596723" />
+
+
+<img width="651" height="402" alt="Screenshot 2026-02-25 095934" src="https://github.com/user-attachments/assets/c8d31852-2e67-4c43-bd5d-e2a34c502d81" />
 
 
 
@@ -195,19 +196,12 @@ npm run dev
 
 ## 📸 Output
 
-### Form UI
+<img width="489" height="446" alt="image" src="https://github.com/user-attachments/assets/3caf2418-d8f2-47cd-8d49-1f6fdabf6276" />
 
-<img width="959" height="474" alt="{08BB14AB-26C8-41FA-9E5A-E8B011289DB0}" src="https://github.com/user-attachments/assets/30f8f85a-4ad3-4a2d-90cf-44e96437ba98" />
-
-
-### Validation Errors
-
-<img width="959" height="472" alt="{5F0814F8-93A4-45C8-B92A-7D8C2D13A041}" src="https://github.com/user-attachments/assets/1606aeb9-2777-4252-b192-d980d2c6dedc" />
+<img width="523" height="538" alt="image" src="https://github.com/user-attachments/assets/55c4cf0f-7be7-494d-9956-eb5a01c5f40d" />
 
 
-### Successful Submission
-
-<img width="957" height="474" alt="{BF41F649-6737-403B-8014-4EB56DC9FABA}" src="https://github.com/user-attachments/assets/2a6dd305-dad2-4b51-9d29-92866188229d" />
+<img width="646" height="227" alt="image" src="https://github.com/user-attachments/assets/19d1e3a1-361c-4973-b800-2496c74eec21" />
 
 
 ---
